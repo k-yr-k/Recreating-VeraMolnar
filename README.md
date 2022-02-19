@@ -1,4 +1,4 @@
-# Recreating-VeraMolnar
+# Recreating Vera Molnar
 Recreating Vera Molnar's 'Lent mouvement blue, orange, rouge et noir', 1955.
 
 ![](Recr_VeraMolnar.gif)
